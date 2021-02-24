@@ -1,0 +1,35 @@
+.ui.borderless.top.menu {
+  background-color: #a8ad00;
+  padding-left: 460px;
+  margin-bottom: 0px;
+}
+
+.ui.borderless.middle.menu{
+  background-color: #4E3629;
+  padding: 10px 500px 10px 1px;
+  font-size: 20px;
+}
+
+.ui.borderless.bot.menu{
+  background-color: #eeede8;
+  box-shadow: none;
+  border: none;
+  padding-left: 700px;
+}
+
+.olive-background {
+  background: url(https://media.olivegarden.com/images/site/ext/pages/_promotions/home/chicken_shrimp_carbonara.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  padding-top: 130px;
+  font-size: 50px;
+  color: white;
+}
+
+.footer-background {
+  background-color: #eeede8;
+  color: black;
+  height: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
